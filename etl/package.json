@@ -1,0 +1,14 @@
+{
+  "name": "etl",
+  "version": "1.0.0",
+
+  "devDependencies": {
+    "chai": "^4.x.x",
+    "del": "^2.x.x",
+    "gulp": "^3.x.x",
+    "gulp-eslint": "^3.x.x",
+    "gulp-istanbul": "^1.x.x",
+    "gulp-mocha": "^3.x.x",
+    "run-sequence": "^1.x.x"
+  }
+}
